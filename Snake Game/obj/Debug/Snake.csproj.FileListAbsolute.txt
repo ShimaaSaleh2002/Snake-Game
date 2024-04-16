@@ -1,0 +1,10 @@
+E:\Self-Study\GUI projects\Snake\bin\Debug\Snake.exe.config
+E:\Self-Study\GUI projects\Snake\bin\Debug\Snake.exe
+E:\Self-Study\GUI projects\Snake\bin\Debug\Snake.pdb
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.Form1.resources
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.exe
+E:\Self-Study\GUI projects\Snake\obj\Debug\Snake.pdb
